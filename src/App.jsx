@@ -1,12 +1,13 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+import './App.css';
+import List from './components/list-of-collaborators/List';
+import data from './assets/data/data.json';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const dataInfo= data;
 
   return (
     <>
+      <List data={dataInfo}/> 
     </>
   )
 }

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "nombre": "JRR Tolkien",
+    "correo": "elseñor@delosanillos.com"
+  },
+  {
+    "id": "2",
+    "nombre": "Themo Lobos",
+    "correo": "mampato@ogu.com"
+  },
+  {
+    "id": "3",
+    "nombre": "Neil Gaiman",
+    "correo": "thesandman@dream.com"
+  },
+  {
+    "id": "4",
+    "nombre": "Frank Herbert",
+    "correo": "dune@fiction.com"
+  }
+]
